@@ -1,0 +1,185 @@
+.goods {
+    height: 1250px;
+}
+
+.position_h {
+    height: 32px;
+    background: #f6f6f6;
+    border: 1px solid #d4d4d4;
+}
+
+.position_h h4 {
+    padding-top: 6px;
+}
+
+.left_h {
+    display: inline-block;
+    background: #fcfcfc;
+    width: 745px;
+    margin-left: 10px;
+}
+
+.right_h {
+    width: 210px;
+    margin-right: 10px;
+    display: inline-block;
+    float: right;
+}
+
+.commend {
+    border: 1px solid #d4d4d4;
+    margin-bottom: 10px;
+    background: #f6f6f6;
+}
+
+.commend img {
+    padding: 7px;
+}
+
+.commend em {
+    font-size: 120%;
+    font-weight: bold;
+    color: #d50000;
+}
+
+.commend a {
+    color: #0067a9;
+    font-size: 90%;
+}
+
+.commend p {
+    text-align: center;
+}
+
+.head2h {
+    height: 27px;
+    font-weight: bold;
+    border-bottom: 2px solid #d50000;
+    background: #f6fafc;
+    padding-left: 5px;
+    text-align: left!important;
+}
+
+.brand_add {
+    height: 480px;
+    border: 1px solid #d4d4d4;
+}
+
+.brand_add img {
+    padding: 5px;
+}
+
+.simplex h2 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 130%;
+    border-bottom: .5px solid #e6e6e6;
+    margin: 5px;
+    padding: 15px 0 10px 0;
+}
+
+.simplex {
+    height: 475px;
+}
+
+.simplex a {
+    display: inline-block;
+}
+
+.simplex a:focus {
+    border: 2px solid #d50000;
+}
+
+.simplex img {
+    padding: 1px;
+}
+
+.simplex em {
+    font-size: 140%;
+    color: orangered;
+}
+
+.simplex span {
+    color: #888888;
+}
+
+.simplex p {
+    padding: 5px;
+}
+
+.popover-options a {
+    border: none;
+}
+
+.buynum p {
+    padding-bottom: 10px;
+}
+
+.buynum span {
+    color: #fff;
+}
+
+.buynum input {
+    width: 40px;
+}
+
+.buynum {
+    background: #eee;
+    padding: 10px;
+}
+
+.buynum i {
+    padding-left: 5em;
+}
+
+.num12 em {
+    font-size: 100%!important;
+}
+
+.minute {
+    background: #f8f8f8;
+    margin: 0 4px;
+    padding: 10px 2px;
+    border-bottom: 1px solid #ddd;
+}
+
+.panel-body {
+    padding: 0;
+}
+
+.explain {
+    font-weight: bold;
+}
+
+.explain img {
+    margin: 10px 0;
+}
+
+.explain th {
+    background: #d9d9d9;
+    font-weight: bold;
+}
+
+.explain td {
+    background: #f3f3f3;
+}
+
+.table-bordered>tbody>tr>td {
+    border: 2px solid white;
+}
+
+.table-bordered>tbody>tr>th {
+    border: 2px solid white;
+}
+
+.mustread img {
+    margin: 10px 0;
+}
+
+.mustread em {
+    color: #bf0000;
+}
+
+.mustread li {
+    padding: 15px 8px;
+}

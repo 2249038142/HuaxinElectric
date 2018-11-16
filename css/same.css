@@ -1,0 +1,147 @@
+@charset "utf-8";
+#contain {
+    width: 1260px;
+    background: #730000;
+}
+
+#contain a {
+    text-decoration: none;
+}
+
+#contain a:hover {
+    color: #911212;
+}
+
+#main {
+    margin-left: 135px;
+    background: #fff;
+    width: 990px;
+}
+
+.top {
+    height: 28px;
+    background: #f2f3f2;
+    padding-left: 135px;
+    color: #777777;
+}
+
+.top input {
+    width: 75px;
+    height: 16px;
+}
+
+.top span {
+    color: #b20000;
+}
+
+.top span:hover {
+    color: #1860ac;
+}
+
+.shopcar {
+    display: inline-block;
+    background: #fff;
+    margin: 0px 10px 5px 10px;
+    border: 1px solid #cccccc;
+    border-top-color: #fff;
+}
+
+.head {
+    height: 85px;
+    background: url("../img/head.png")
+}
+
+.search {
+    width: 380px;
+    position: relative;
+    left: 750px;
+    top: 40px;
+}
+
+.nav1 {
+    width: 960px;
+    background: #dddddd;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 35px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    box-shadow: 1px 3px 10px rgba(200, 204, 204, 0.8);
+}
+
+.navbar-nav li {
+    font-weight: bold;
+    background: #dddddd;
+    width: 100px;
+    height: 35px;
+    padding-top: 8px;
+    text-align: center;
+    border-left: 1px solid #c3c3c3;
+}
+
+.lino {
+    border-left: 1px solid #dddddd !important;
+}
+
+.navbar-nav li:hover {
+    background: #fff;
+}
+
+.navbar-nav li.active {
+    background: #b20000;
+}
+
+.active a {
+    color: #fff;
+}
+
+.foot h3 {
+    font-weight: bold;
+    font-size: 120%;
+    border-bottom: 1px solid #c3c3c3;
+    padding-bottom: 7px;
+}
+
+.foot em {
+    border-bottom: 1px solid red;
+    padding-bottom: 7px;
+}
+
+.footer {
+    margin: 10px 4.1px;
+    height: 125px;
+    border: 1px solid #ccc;
+    box-shadow: -2px 0px 10px rgba(194, 197, 197, 0.8) inset;
+}
+
+.foot {
+    width: 192px;
+    height: 124px;
+    padding: 7px;
+    border-right: 1px dashed #ccc;
+    display: inline-block;
+}
+
+.thingf ul {
+    padding-top: 5px;
+}
+
+.thingf li>a {
+    color: #1860ac;
+}
+
+.thingf li>a:hover {
+    color: #730000;
+}
+
+.buttom {
+    height: 75px;
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+}
+
+.borbonone {
+    border-bottom-color: #fff!important;
+}

@@ -1,0 +1,109 @@
+.arrows ul {
+    height: 50px;
+    width: 550px;
+    padding-left: 30px;
+}
+
+
+/*给水平菜单添加整体背景，需要对height和width进行设置，因为菜单<li>浮动后，<li>脱离了文档流，导致<ul>将失去高度和宽度；如果需要对<ul>进行整体背景设置，首先要给定义宽，高*/
+
+.arrows li {
+    float: left;
+    margin-top: 20px;
+    margin-left: -20px;
+    position: relative;
+    width: 190px;
+}
+
+.arrows a {
+    text-decoration: none;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    color: #656565;
+    background-color: #ccc;
+    margin-bottom: 1px;
+    text-align: center;
+    background: url(../img/arrow.png) no-repeat 100% 0;
+    background-position: 0 -30px;
+    font-weight: bold;
+}
+
+.arrows .active {
+    background-position: 0 0px;
+    color: white!important;
+}
+
+.num {
+    font-size: 16px;
+    letter-spacing: 8px;
+    vertical-align: middle;
+}
+
+.step {
+    vertical-align: middle;
+}
+
+.cfm {
+    width: 960px;
+    height: 450px;
+}
+
+.cfm p {
+    position: relative;
+    top: 5px;
+    left: -520px;
+}
+
+.consignee {
+    margin: 10px 10px;
+    height: 350px;
+    border: 2px solid #dddddd;
+    padding: 20px 40px;
+}
+
+.consignee input {
+    width: 130px;
+}
+
+.consignee select {
+    width: 130px;
+}
+
+.consignee h2 {
+    font-weight: bolder;
+    font-size: 120%;
+    padding-bottom: 15px;
+}
+
+.consignee form {
+    padding-bottom: 10px;
+}
+
+.btn2 {
+    padding-left: 20px;
+}
+
+.phone1 {
+    position: relative;
+    left: 18px;
+}
+
+.time1 {
+    position: relative;
+    left: -30px;
+}
+
+.btn2 {
+    position: relative;
+    left: 65px;
+}
+
+.exline {
+    display: block!important;
+}
+
+.form-group {
+    padding-bottom: 10px;
+}

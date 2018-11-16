@@ -1,0 +1,108 @@
+.help {
+    height: 850px;
+}
+
+.picb img {
+    display: inline-block;
+    margin: 10px 5px 10px 11px;
+}
+
+.picb {
+    height: 100px;
+}
+
+.left_h {
+    width: 210px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.h_center {
+    height: 190px;
+    border: 1px solid #d4d4d4;
+    margin-bottom: 10px;
+}
+
+.h_center span {
+    color: #d50000;
+    font-size: 50%;
+}
+
+.h_center li {
+    border-bottom: 1px dashed #d4d4d4;
+    line-height: 28px;
+    padding-left: 10px;
+}
+
+.h_center ul {
+    margin: 5px 5px;
+}
+
+.brand_add {
+    height: 480px;
+    border: 1px solid #d4d4d4;
+}
+
+.head2h {
+    height: 27px;
+    font-weight: bold;
+    border-bottom: 2px solid #d50000;
+    background: #f6fafc;
+    padding-left: 5px;
+}
+
+.brand_add img {
+    padding: 5px;
+}
+
+.position_h {
+    height: 32px;
+    background: #f6f6f6;
+    border: 1px solid #d4d4d4;
+}
+
+.position_h h4 {
+    padding-top: 6px;
+}
+
+.right_h {
+    display: inline-block;
+    background: #fcfcfc;
+    width: 745px;
+    float: right;
+    margin-right: 10px;
+}
+
+.tryh2 {
+    font-weight: bold;
+    font-size: 110%;
+    text-indent: 2em;
+    background: #f2f2f2;
+    height: 30px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+.electrcitytry {
+    border: 1px solid #d4d4d4;
+    margin-top: 5px;
+}
+
+.electrcitytry time {
+    float: right;
+}
+
+.electrcitytry ul {
+    margin: 4px;
+}
+
+.electrcitytry li {
+    border-bottom: 1px dashed #d4d4d4;
+    padding-left: 10px;
+    line-height: 27px;
+}
+
+.ye2 {
+    text-align: right;
+    margin: 10px;
+}

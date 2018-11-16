@@ -1,0 +1,224 @@
+.picb img {
+    display: inline-block;
+    margin: 10px 5px 10px 11px;
+}
+
+.picb {
+    height: 100px;
+}
+
+.sales {
+    height: 1600px;
+}
+
+.left_h {
+    width: 210px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.h_center {
+    height: 340px;
+    border: 1px solid #d4d4d4;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.h_center figure>img {
+    padding-top: 15px;
+}
+
+.h_center figcaption>p {
+    font-weight: bold;
+}
+
+.h_center span {
+    color: #808080;
+    font-size: 80%;
+}
+
+.h_center strong {
+    font-size: 150%;
+    color: orangered;
+    font-weight: bolder;
+}
+
+.h_center em {
+    font-weight: bold;
+    color: orangered;
+}
+
+.joinclass {
+    border: 1px solid #d4d4d4;
+    background: #eeeef1;
+    margin: 10px 5px;
+    padding: 5px;
+}
+
+.joinclass button {
+    width: 170px;
+}
+
+.brand_add {
+    height: 480px;
+    border: 1px solid #d4d4d4;
+}
+
+.head2h {
+    height: 27px;
+    font-weight: bold;
+    border-bottom: 2px solid #d50000;
+    background: #f6fafc;
+    padding-left: 5px;
+    text-align: left!important;
+}
+
+.brand_add img {
+    padding: 5px;
+}
+
+.position_h {
+    height: 32px;
+    background: #f6f6f6;
+    border: 1px solid #d4d4d4;
+}
+
+.position_h h4 {
+    padding-top: 10px;
+}
+
+.right_h {
+    display: inline-block;
+    background: #fcfcfc;
+    width: 745px;
+    float: right;
+    margin-right: 10px;
+}
+
+.tryh2 {
+    font-weight: bold;
+    font-size: 110%;
+    text-indent: 2em;
+    background: #f2f2f2;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.searchk {
+    width: 210px;
+    margin: 10px;
+}
+
+.allsale {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 10px;
+}
+
+.electrcitytry {
+    border: 1px solid #d4d4d4;
+    height: 130px;
+    margin-top: 8px;
+}
+
+.electrcitytry a {
+    color: #0067a9;
+    display: inline-block;
+    text-align: center;
+}
+
+.allsale a:hover {
+    background: #b80000;
+    color: white!important;
+}
+
+.headba {
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    padding-top: 5px;
+    text-align: center;
+    background: linear-gradient(to bottom, #b30a0a, #6e0606);
+}
+
+.headye {
+    float: right;
+}
+
+.headye button {
+    height: 27px;
+}
+
+.headye span {
+    display: inline-block;
+    background: white;
+    color: #999999;
+    border: 1px solid #d4d4d4;
+}
+
+.allbabys {
+    margin-top: 30px;
+}
+
+.baby1 {
+    border-bottom: 2px solid #6e0606;
+}
+
+.swichb {
+    height: 38px;
+    border: 1px solid #cccccc;
+    background: linear-gradient(to bottom, #fff, #ddd);
+    padding-top: 5px;
+}
+
+.swichb input {
+    width: 40px;
+    padding-top: -3px;
+}
+
+.swichb em {
+    padding-left: 20px;
+}
+
+.swichb button {
+    margin-left: 20px;
+    height: 27px;
+    padding-bottom: 5px;
+}
+
+.aircondition {
+    width: 161px;
+    height: 258px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.aircondition span {
+    color: #999999;
+}
+
+.aircondition em {
+    font-size: 120%;
+    font-weight: bold;
+    color: orangered;
+}
+
+.aircondition figure {
+    margin-bottom: 15px;
+}
+
+.aircondition button {
+    height: 25px;
+    line-height: 1;
+}
+
+.babyair li {
+    border-bottom: .5px dashed #ccc;
+}
+
+.btnyet {
+    text-align: right;
+    margin: 10px 1px;
+}

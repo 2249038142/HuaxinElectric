@@ -1,0 +1,199 @@
+.first {
+    height: 1080px;
+}
+
+.left_side {
+    width: 180px;
+    margin: 10px 10px;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.right_side {
+    width: 770px;
+    margin: 10px 5px;
+    border-radius: 4px;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+.left_side h2 {
+    background: #ac0005;
+    color: white;
+    display: inline;
+    padding: 2px 15px 5px 10px;
+    font-weight: bold;
+    box-shadow: 3px 3px 10px rgba(200, 204, 204, 0.8);
+}
+
+.class9 {
+    border-bottom: 2px solid #ac0005;
+}
+
+.left_side h3 {
+    padding: 5px;
+    display: block;
+    font-weight: bold;
+    box-shadow: 1px 3px 10px rgba(200, 204, 204, 0.5);
+    border-top: 1px solid #d4d4d4;
+    background: linear-gradient(to bottom, white, #ececec)
+}
+
+.list2 li {
+    border-bottom: 1px dashed #d4d4d4;
+    height: 24px;
+    padding-top: 3px;
+    margin-left: 6px;
+}
+
+.list2 a {
+    position: relative;
+    left: 10px;
+}
+
+.col-md-5 {
+    padding-right: 0;
+}
+
+.col-md-6 {
+    padding-left: 0;
+}
+
+.slide {
+    width: 555px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.activity {
+    height: 180px;
+    border: 1px solid #d4d4d4;
+    margin: 5px 0;
+    border: 1px solid #d4d4d4;
+    float: right;
+}
+
+.activity a {
+    color: #0067a9;
+}
+
+.activity img {
+    padding: 10px;
+}
+
+.head2h {
+    text-align: left;
+    font-weight: bold;
+    padding-left: 10px;
+    height: 27px;
+    box-shadow: 1px 3px 10px rgba(200, 204, 204, 0.5);
+    background: linear-gradient(to bottom, white, #ececec)
+}
+
+.head2h span {
+    color: #ac0005;
+}
+
+.head2h em {
+    float: right;
+    font-weight: bold;
+}
+
+.groupbuy {
+    margin: 10px 0;
+    border: 1px solid #ececec;
+}
+
+.groupbuy p {
+    padding-top: 5px;
+}
+
+.canonxs {
+    margin: 8px;
+}
+
+.new_le {
+    display: inline-block;
+    width: 555px;
+    border: 1px solid #ececec;
+}
+
+.new_ri {
+    width: 200px;
+    float: right;
+}
+
+.newup {
+    margin: 15px 0;
+}
+
+.elecfire {
+    display: inline-block;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.elecfire figcaption {
+    color: #1860ac;
+    font-weight: bold;
+}
+
+.elecfire p {
+    color: #1860ac;
+}
+
+.elecfire del {
+    color: #aaa;
+}
+
+.elecfire em {
+    color: #ac0005;
+}
+
+.new_le li {
+    border-bottom: 1px dashed #ececec;
+}
+
+.h_center {
+    border: 1px solid #ececec;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.h_center span {
+    color: #808080;
+    font-size: 80%;
+}
+
+.h_center strong {
+    font-size: 150%;
+    color: orangered;
+    font-weight: bolder;
+}
+
+.h_center em {
+    font-weight: bold;
+    color: orangered;
+}
+
+.h_center p {
+    line-height: 200%;
+}
+
+.joinclass {
+    border: 1px solid #d4d4d4;
+    background: #eeeef1;
+    margin: 10px 5px;
+    padding: 5px;
+}
+
+.joinclass button {
+    width: 170px;
+}
+
+.img11 {
+    padding: 40px 0;
+}
